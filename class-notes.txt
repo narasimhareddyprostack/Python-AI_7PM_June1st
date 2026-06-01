@@ -1,0 +1,9 @@
+Extract data from - Cloud/DWH/Databases/FS
+
+Traform   - according to requirement
+
+Load into Cloud/Databases/FS(JSON/CSV)
+
+AI
+
+Python:General Purpose HighLevel PL
